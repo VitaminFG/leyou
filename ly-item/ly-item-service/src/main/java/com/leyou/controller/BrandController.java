@@ -31,7 +31,7 @@ public class BrandController {
             return  ResponseEntity.ok(brandPageResult);
 
         }
-        System.out.print("hhhhh");
+        System.out.print("kkk");
         return ResponseEntity.status(HttpStatus.NO_CONTENT).build();
 
 
